@@ -1,5 +1,5 @@
 # TOPICOS DE INTELIGENCIA ARTIFICIAL
-Este es un repositorio para Subir mis tareas y trabajos de la materia Tópicos De IA. El propósito de este repositorio es Tener evidencia de mis proyectos y trabajos.
+Este repositorio es mi portafolio para la materia Tópicos de IA. Aquí encontrarás todos mis trabajos y proyectos, sirviendo como evidencia de mi aprendizaje y avances.
 
 ### **Alumno**: Millán López Ana Karen
 ### **No. Control**: 20170985
