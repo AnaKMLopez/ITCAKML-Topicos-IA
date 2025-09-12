@@ -5,6 +5,7 @@ Este repositorio es mi portafolio para la materia Tópicos de IA. Aquí encontra
 ### **No. Control**: 20170985
 ### **Maestro**: Mora Felix Zuriel Dathan
 ### **Clave de la materia**: GTD2102
+### **Grupo:** 12:00-13:00
 
 # UNIDAD 1
 ## Tarea 1
