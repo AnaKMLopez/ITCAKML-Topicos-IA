@@ -17,6 +17,7 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Tarea%20!B
 ## Proyecto de investigación de inteligencia artificial e impacto ambiental
 Este proyecto explora el potencial de la **Inteligencia Artificial (IA)** para combatir la crisis de agua en México. A través de un análisis de aplicaciones en los sectores agrícola y urbano, la investigación demuestra cómo el uso de la IA para el riego inteligente y la detección de fugas puede optimizar el consumo y fomentar una gestión hídrica más sostenible.
 
+**Compañero de Equipo: Bórbon Sánchez Edgar**
 ### Archivo
 
 
