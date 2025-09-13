@@ -8,7 +8,7 @@ Este repositorio es mi portafolio para la materia Tópicos de IA. Aquí encontra
 ### **Grupo:** 12:00-13:00
 
 # MODULO 1 - Introducción a la Inteligencia Artificial
-## Tarea 1 !BONUS
+## Tarea !BONUS
 Código de N reinas con el método de búsqueda tabú.
 
 ### Archivo
