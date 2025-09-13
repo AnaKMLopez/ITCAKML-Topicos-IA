@@ -19,5 +19,5 @@ Este proyecto explora el potencial de la **Inteligencia Artificial (IA)** para c
 
 **Compañero de Equipo: Bórbon Sánchez Edgar**
 ### Archivo
-
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Proyecto.pdf
 
