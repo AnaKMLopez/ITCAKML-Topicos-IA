@@ -20,4 +20,5 @@ Este proyecto explora el potencial de la **Inteligencia Artificial (IA)** para c
 **Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Proyecto.pdf
-
+### Archivo - Exposición
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Inteligencia%20Artificial%20para%20el%20Cuidado%20del%20Agua%20-%20Exposición.pdf
