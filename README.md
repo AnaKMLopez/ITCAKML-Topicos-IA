@@ -1,5 +1,5 @@
 # TOPICOS DE INTELIGENCIA ARTIFICIAL
-Este repositorio es mi portafolio para la materia Tópicos de IA. Aquí encontrarás todos mis trabajos y proyectos, sirviendo como evidencia de mi aprendizaje y avances.
+Este repositorio es mi portafolio para la materia Tópicos de IA. Aquí se encontrarán todos mis trabajos y proyectos, sirviendo como evidencia de mi aprendizaje y avances.
 
 ### **Alumno**: Millán López Ana Karen
 ### **No. Control**: 20170985
