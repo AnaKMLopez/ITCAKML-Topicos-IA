@@ -22,3 +22,15 @@ Este proyecto explora el potencial de la **Inteligencia Artificial (IA)** para c
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Proyecto.pdf
 ### Archivo - Exposición
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Inteligencia%20Artificial%20para%20el%20Cuidado%20del%20Agua%20-%20Exposición.pdf
+
+
+# MODULO 2 - Métodos de Búsqueda Heurísticos para optimización
+## Trabajo en clase
+Este trabajo presenta una implementación del algoritmo Recocido Simulado en Python. El objetivo es resolver un problema de ordenación de arreglos (optimización combinatoria), buscando el estado con el mínimo costo (el arreglo ordenado).
+
+**Compañero de Equipo: Borbón Sánchez Edgar**
+### Archivo
+
+### Archivo - Exposición
+
+### Archivo - Código
