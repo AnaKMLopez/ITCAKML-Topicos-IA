@@ -29,7 +29,7 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%201/Inteligenc
 Este trabajo presenta una implementación del algoritmo Recocido Simulado en Python. El objetivo es resolver un problema de ordenación de arreglos (optimización combinatoria), buscando el estado con el mínimo costo (el arreglo ordenado).
 
 **Compañero de Equipo: Borbón Sánchez Edgar**
-### Archivo
+### Archivo - Algoritmo
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Algoritmo_RS.txt
 
 ### Archivo - Exposición
