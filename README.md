@@ -30,7 +30,10 @@ Este trabajo presenta una implementación del algoritmo Recocido Simulado en Pyt
 
 **Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Algoritmo_RS.txt
 
 ### Archivo - Exposición
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/RecocidoSimulado.pdf
 
 ### Archivo - Código
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Recocido_Simulado_Python.py
