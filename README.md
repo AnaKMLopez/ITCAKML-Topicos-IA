@@ -49,8 +49,10 @@ Se implementó el algoritmo heurístico de **Recocido Simulado (Simulated Anneal
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Recocido_Rutas/Proyecto%20de%20Optimización%20de%20Rutas%20de%20Distribución%20Lógistica%20Usando%20el%20Algoritmo%20de%20Recocido%20Simulado.pdf
 
 ### Archivo - Código
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/tree/main/MODULO%202/Recocido_Rutas/Codigo
 
 ### Archivo - Datos
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/tree/main/MODULO%202/Recocido_Rutas/Data
 
 ### Archivo - Mapas
 
