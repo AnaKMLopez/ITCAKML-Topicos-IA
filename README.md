@@ -46,6 +46,7 @@ Se implementó el algoritmo heurístico de **Recocido Simulado (Simulated Anneal
 
 **Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo - Lógica
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Recocido_Rutas/Proyecto%20de%20Optimización%20de%20Rutas%20de%20Distribución%20Lógistica%20Usando%20el%20Algoritmo%20de%20Recocido%20Simulado.pdf
 
 ### Archivo - Código
 
