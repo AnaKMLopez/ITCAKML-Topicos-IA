@@ -49,3 +49,9 @@ Se implementó el algoritmo heurístico de **Recocido Simulado (Simulated Anneal
 
 ### Archivo - Código
 
+### Archivo - Datos
+
+### Archivo - Mapas
+
+
+
