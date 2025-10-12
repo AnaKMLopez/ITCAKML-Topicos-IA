@@ -37,3 +37,15 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/RecocidoSi
 
 ### Archivo - Código
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Recocido_Simulado_Python.py
+
+
+## Proyecto de Optimización de Rutas de Distribución Lógistica Usando el Algoritmo de Recocido Simulado
+Este proyecto aborda el **Problema de Ruteo de Vehículos con Múltiples Depósitos (MDVRP)**. El objetivo principal es optimizar las rutas de distribución de productos comestibles en Culiacán, Sinaloa, para **minimizar el costo total (distancia y combustible)**.
+
+Se implementó el algoritmo heurístico de **Recocido Simulado (Simulated Annealing - SA)** en Python, el cual es crucial para escapar de mínimos locales y encontrar soluciones eficientes en este tipo de problemas NP-difíciles. El modelo incluye una **Penalidad Geográfica** en la función de costo para asegurar asignaciones lógicas y robustas.
+
+**Compañero de Equipo: Borbón Sánchez Edgar**
+### Archivo - Lógica
+
+### Archivo - Código
+
