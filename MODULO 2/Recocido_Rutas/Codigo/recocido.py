@@ -61,12 +61,12 @@ def generarSolucionInicial(centros, tiendas, mapaTiendaCentrosCercanos, porcenta
     print(f"Generando solución inicial con un {porcentajeError*100}% de error intencional...")
     solucion = {centro: [] for centro in centros} #Diccionario(un tipo de lista) de Python, establece cada centro como una clave
     for tienda in tiendas: #Por cada tienda, definimos los centros más cercanos para calcular cual convendría más usar
-        centros_cercanos_para_tienda = mapaTiendaCentrosCercanos[tienda] # ^ 
-        if random.random() < porcentajeError and len(centros_cercanos_para_tienda) > 1: #Generamos un numero entre el 0 y el 1, teniendo en cuenta el porcentaje de error, la idea de todo esto es tener un inicio erroneo
-            centro_asignado = random.choice(centros_cercanos_para_tienda[1:])  # Se asigna a un centro que nunca será el mśa cercano gracias al [1:]. Tomamos el indice 1 en lugar del 0, que vendría siendo el más cercano             
+        centrosCercanosParaTienda = mapaTiendaCentrosCercanos[tienda] # ^ 
+        if random.random() < porcentajeError and len(centrosCercanosParaTienda) > 1: #Generamos un numero entre el 0 y el 1, teniendo en cuenta el porcentaje de error, la idea de todo esto es tener un inicio erroneo
+            centroAsignado = random.choice(centrosCercanosParaTienda[1:])  # Se asigna a un centro que nunca será el mśa cercano gracias al [1:]. Tomamos el indice 1 en lugar del 0, que vendría siendo el más cercano             
         else:   #Este else significa que sí se asignará el centro más cercano. Esto es para que no todas las posiciones de esta solucion sean erroneas, teniendo así un punto de comparación inicial medianamente realista.
-            centro_asignado = centros_cercanos_para_tienda[0]
-        solucion[centro_asignado].append(tienda) #Se agrega la tienda a la ruta 
+            centro_asignado = centrosCercanosParaTienda[0]
+        solucion[centroAsignado].append(tienda) #Se agrega la tienda a la ruta 
     for centro in centros:
         random.shuffle(solucion[centro]) #Ya generado todo, revolvemos la solucion para darle más cosas al algoritmo que optimizar. 
     return solucion
