@@ -195,9 +195,9 @@ def recocido(dfInfo, dfCombustible, dfDistancia, costoPorDistancia, tempinicial,
 
         #Impresión final de la ruta y qué nodos viajó
         print(f"\n{centroNombre} ({len(nodosRutaFinal)} tiendas):")
-        nombre_rutas_finales = [nombreNodo[nodo] for nodo in nodosRutaFinal]
-        if nombre_rutas_finales:
-             print(f"  Ruta final:   {' -> '.join(nombre_rutas_finales)}")
+        nombreRutasFinales = [nombreNodo[nodo] for nodo in nodosRutaFinal]
+        if nombreRutasFinales:
+             print(f"  Ruta final:   {' -> '.join(nombreRutasFinales)}")
         else:
              print("  Ruta final:   (Sin tiendas asignadas)")   #En algunos casos, el algoritmo me generaba centros que no sacaban camion
                                                                 #Lo modificamos para que no ocurra, pero por si acaso queda esta linea
