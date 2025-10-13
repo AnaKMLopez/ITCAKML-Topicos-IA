@@ -65,7 +65,7 @@ def generarSolucionInicial(centros, tiendas, mapaTiendaCentrosCercanos, porcenta
         if random.random() < porcentajeError and len(centrosCercanosParaTienda) > 1: #Generamos un numero entre el 0 y el 1, teniendo en cuenta el porcentaje de error, la idea de todo esto es tener un inicio erroneo
             centroAsignado = random.choice(centrosCercanosParaTienda[1:])  # Se asigna a un centro que nunca será el mśa cercano gracias al [1:]. Tomamos el indice 1 en lugar del 0, que vendría siendo el más cercano             
         else:   #Este else significa que sí se asignará el centro más cercano. Esto es para que no todas las posiciones de esta solucion sean erroneas, teniendo así un punto de comparación inicial medianamente realista.
-            centro_asignado = centrosCercanosParaTienda[0]
+            centroAsignado = centrosCercanosParaTienda[0]
         solucion[centroAsignado].append(tienda) #Se agrega la tienda a la ruta 
     for centro in centros:
         random.shuffle(solucion[centro]) #Ya generado todo, revolvemos la solucion para darle más cosas al algoritmo que optimizar. 
