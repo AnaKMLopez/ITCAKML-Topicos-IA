@@ -55,6 +55,6 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/tree/main/MODULO%202/Recocido_R
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/tree/main/MODULO%202/Recocido_Rutas/Data
 
 ### Archivo - Mapas
-
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%202/Recocido_Rutas/Mapas/Mapas.pdf
 
 
