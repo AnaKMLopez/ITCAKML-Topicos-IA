@@ -31,7 +31,7 @@ def calcularCostoRuta(ruta, matrizCosto):
                                                   #movernos de C4 a T20 puede costar $200, y ese 200 se le suma al costo actual
     return costo
 
-def calcularCostoSolucion(solucion, matrizCosto, mapaTiendaCentroIdeal, PENALIDAD_GEOGRAFICA):
+def calcularCostoSolucion(solucion, matrizCosto, mapaTiendaCentroIdeal, penalidadGeofrafica):
     """
         Calculamos el costo total de la solución. 
         [ruta] es la lista con la ruta definida en la solucion. La recorremos con un for donde
@@ -50,7 +50,7 @@ def calcularCostoSolucion(solucion, matrizCosto, mapaTiendaCentroIdeal, PENALIDA
             costoTotal += calcularCostoRuta(rutaCompleta, matrizCosto)
             for tienda in ruta:
                 if mapaTiendaCentroIdeal[tienda] != centro:
-                    costoTotal += PENALIDAD_GEOGRAFICA
+                    costoTotal += penalidadGeografica
     return costoTotal
 
 def generarSolucionInicial(centros, tiendas, mapaTiendaCentrosCercanos, porcentajeError=0.15):
