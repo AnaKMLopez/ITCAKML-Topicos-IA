@@ -71,7 +71,7 @@ El modelo optimiza la ubicación de los sensores considerando variables crítica
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Optimización%20de%20Riego%20con%20Enjambre%20de%20Partículas%20/%20Código%20/mainV1.py
 
 ### Archivo - Pruebas
-
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Optimización%20de%20Riego%20con%20Enjambre%20de%20Partículas%20/%20Pruebas%20/Pruebas.pdf
 
 ### Archivo - Documentación técnica
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Optimización%20de%20Riego%20con%20Enjambre%20de%20Partículas%20/Optimización%20de%20Colocación%20de%20Sensores%20para%20Riego%20Eficiente%20en%20Guasave%2C%20Sinaloa%2C%20Mediante%20Enjambre%20de%20Partículas%20(PSO).pdf
