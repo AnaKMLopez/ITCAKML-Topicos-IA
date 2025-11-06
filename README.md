@@ -80,6 +80,13 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Opti
 ## Trabajo Bonus I - Evolución diferencial 
 Falta descripción
 
-### Archivo
+### Archivo - Código
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Trabajo%20Bonus%20I%20-%20Evolución%20diferencial%20/Código%20/mainpyswarms.py
+
+### Archivo - Tarea 1
+
+### Archivo - Tarea 2
+
+
 
 
