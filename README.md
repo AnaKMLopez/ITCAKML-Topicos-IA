@@ -78,9 +78,13 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Opti
 
 
 ## Trabajo Bonus I - Evolución diferencial 
-Falta descripción
+En este Trabajo Bonus realizamos 2 tareas:
+- Optimización por Enjambre de Partículas (PSO): Un script de Python que usa pyswarms para encontrar el mínimo global de la función esfera. El código incluye una visualización animada del enjambre buscando la solución.
+- Evolución Diferencial (ED): Un trabajo de investigación que define el algoritmo de ED, explica su mecanismo (mutación, recombinación y selección) y analiza sus aplicaciones, ventajas y desventajas.
 
+**Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo - Tarea 1
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Trabajo%20Bonus%20I%20-%20Evolución%20diferencial%20/%20Tarea%201%20/mainpyswarms.py
 
 ### Archivo - Tarea 2
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Trabajo%20Bonus%20I%20-%20Evolución%20diferencial%20/%20Tarea%202%20/TAREA%202%20BONUS%20I%20-%20EVOLUCIÓN%20DIFERENCIAL.pdf
