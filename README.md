@@ -89,3 +89,16 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Trab
 
 ### Archivo - Tarea 2
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Trabajo%20Bonus%20I%20-%20Evolución%20diferencial%20/%20Tarea%202%20/TAREA%202%20BONUS%20I%20-%20EVOLUCIÓN%20DIFERENCIAL.pdf
+
+
+## Tarea de Validación III
+Este proyecto documenta el estudio y modificación de un script de Algoritmo Genético (AG) diseñado para resolver el Problema del Vendedor Viajero (TSP).
+
+El script original (`AG.py`) fue reparado y agilizado, resultando en el nuevo script (`TareaValidacionIII.py`). Los cambios se centraron en mejorar la eficiencia, la documentación y la organización del código.
+
+**Compañero de Equipo: Borbón Sánchez Edgar**
+### Archivo - README
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20TAREA%20DE%20VALIDACION%20III%20/README.md
+
+### Archivo - Código
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20TAREA%20DE%20VALIDACION%20III%20/TareaValidacionIII.py
