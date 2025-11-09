@@ -98,7 +98,7 @@ El script original (`AG.py`) fue reparado y agilizado, resultando en el nuevo sc
 
 **Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo - README
-https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20TAREA%20DE%20VALIDACION%20III%20/README.md
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Tarea%20de%20Validación%20III/README.md
 
 ### Archivo - Código
-https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20TAREA%20DE%20VALIDACION%20III%20/TareaValidacionIII.py
+https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Tarea%20de%20Validación%20III/TareaValidacionIII.py
