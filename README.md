@@ -103,7 +103,7 @@ https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Tare
 ### Archivo - Código
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%203%20/%20Tarea%20de%20Validación%20III/TareaValidacionIII.py
 
-# MODULO 4 - 
+# MODULO 4 
 ## Proyecto de Sistema De Detección Y Gestión De Placas Vehiculares (Full-Stack)
 Este proyecto aborda un desafío social central: la **falta de respeto a los espacios de estacionamiento designados para personas con discapacidades**. El sistema ofrece una solución **móvil y automatizada** para la identificación instantánea y el reporte de vehículos infractores.
 
@@ -114,8 +114,13 @@ Se implementó una arquitectura **Cliente-Servidor de tres capas**, siendo cruci
 **Compañero de Equipo: Borbón Sánchez Edgar**
 ### Archivo - Documentación técnica
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%204%20/%20Sistema%20De%20Detección%20Y%20Gestión%20De%20Placas%20Vehiculares%20(Full-Stack)%20/Sistema%20De%20Detección%20Y%20Gestión%20De%20Placas%20Vehiculares%20(Full-Stack).pdf
-### Video de APP Móvil
 
+### Archivo - Código
+https://github.com/Edgarborbon/TopicosIA/tree/main/MODULO%204/Sistema%20de%20detección%20de%20placas%20vehiculares
+
+### Video de APP Móvil
 https://github.com/user-attachments/assets/9c2eeb73-9d0b-419a-b752-eebf413c5558
+
+
 
 
