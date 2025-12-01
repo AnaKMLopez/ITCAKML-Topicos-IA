@@ -115,3 +115,7 @@ Se implementó una arquitectura **Cliente-Servidor de tres capas**, siendo cruci
 ### Archivo - Documentación técnica
 https://github.com/AnaKMLopez/ITCAKML-Topicos-IA/blob/main/MODULO%204%20/%20Sistema%20De%20Detección%20Y%20Gestión%20De%20Placas%20Vehiculares%20(Full-Stack)%20/Sistema%20De%20Detección%20Y%20Gestión%20De%20Placas%20Vehiculares%20(Full-Stack).pdf
 ### Video de APP Móvil
+
+https://github.com/user-attachments/assets/9c2eeb73-9d0b-419a-b752-eebf413c5558
+
+
